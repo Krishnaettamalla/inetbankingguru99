@@ -1,0 +1,194 @@
+2022-10-14 19:43:53 INFO  inetBankingV1:13 - url is opened
+  2022-10-14 19:43:54 INFO  inetBankingV1:17 - username entered
+  2022-10-14 19:43:54 INFO  inetBankingV1:19 - password entered
+  2022-10-14 19:43:57 INFO  inetBankingV1:21 - clicked on submit button
+  2022-10-14 19:43:58 INFO  inetBankingV1:26 - login test passed
+  2022-10-17 11:43:44 INFO  inetBankingV1:13 - url is opened
+  2022-10-17 11:44:20 INFO  inetBankingV1:13 - url is opened
+  2022-10-17 11:44:21 INFO  inetBankingV1:17 - username entered
+  2022-10-17 11:44:21 INFO  inetBankingV1:19 - password entered
+  2022-10-17 11:44:24 INFO  inetBankingV1:21 - clicked on submit button
+  2022-10-17 11:44:24 INFO  inetBankingV1:26 - login test passed
+  2022-10-17 11:57:53 INFO  inetBankingV1:11 - url is opened
+  2022-10-17 11:57:53 INFO  inetBankingV1:15 - username entered
+  2022-10-17 11:57:53 INFO  inetBankingV1:17 - password entered
+  2022-10-17 11:57:57 INFO  inetBankingV1:19 - clicked on submit button
+  2022-10-17 11:57:57 INFO  inetBankingV1:24 - login test passed
+  2022-10-17 12:38:03 INFO  inetBankingV1:11 - url is opened
+  2022-10-17 12:38:04 INFO  inetBankingV1:15 - username entered
+  2022-10-17 12:38:04 INFO  inetBankingV1:17 - password entered
+  2022-10-17 12:38:06 INFO  inetBankingV1:19 - clicked on submit button
+  2022-10-17 12:38:06 INFO  inetBankingV1:24 - login test passed
+  2022-10-17 12:41:31 INFO  inetBankingV1:11 - url is opened
+  2022-10-17 12:41:31 INFO  inetBankingV1:15 - username entered
+  2022-10-17 12:58:57 INFO  inetBankingV1:11 - url is opened
+  2022-10-17 12:58:58 INFO  inetBankingV1:15 - username entered
+  2022-10-17 12:58:58 INFO  inetBankingV1:17 - password entered
+  2022-10-17 12:59:02 INFO  inetBankingV1:19 - clicked on submit button
+  2022-10-17 12:59:02 INFO  inetBankingV1:24 - login test passed
+  2022-10-17 18:25:22 INFO  inetBankingV1:11 - url is opened
+  2022-10-17 18:25:25 INFO  inetBankingV1:15 - username entered
+  2022-10-17 18:25:25 INFO  inetBankingV1:17 - password entered
+  2022-10-17 18:25:31 INFO  inetBankingV1:19 - clicked on submit button
+  2022-10-17 18:25:31 INFO  inetBankingV1:24 - login test passed
+  2022-10-17 18:32:17 INFO  inetBankingV1:11 - url is opened
+  2022-10-17 18:32:17 INFO  inetBankingV1:15 - username entered
+  2022-10-17 18:32:17 INFO  inetBankingV1:17 - password entered
+  2022-10-17 18:32:21 INFO  inetBankingV1:19 - clicked on submit button
+  2022-10-17 18:32:21 INFO  inetBankingV1:24 - login test passed
+  2022-10-17 18:38:31 INFO  inetBankingV1:11 - url is opened
+  2022-10-17 18:38:31 INFO  inetBankingV1:15 - username entered
+  2022-10-17 18:38:32 INFO  inetBankingV1:17 - password entered
+  2022-10-17 18:38:35 INFO  inetBankingV1:19 - clicked on submit button
+  2022-10-17 18:38:35 INFO  inetBankingV1:24 - login test passed
+  2022-10-17 19:04:36 INFO  inetBankingV1:11 - url is opened
+  2022-10-17 19:04:37 INFO  inetBankingV1:15 - username entered
+  2022-10-17 19:04:37 INFO  inetBankingV1:17 - password entered
+  2022-10-17 19:04:37 INFO  inetBankingV1:19 - clicked on submit button
+  2022-10-17 19:42:10 INFO  inetBankingV1:11 - url is opened
+  2022-10-17 19:42:12 INFO  inetBankingV1:15 - username entered
+  2022-10-17 19:42:12 INFO  inetBankingV1:17 - password entered
+  2022-10-17 19:42:13 INFO  inetBankingV1:19 - clicked on submit button
+  2022-10-17 20:14:21 INFO  inetBankingV1:11 - url is opened
+  2022-10-17 20:14:21 INFO  inetBankingV1:15 - username entered
+  2022-10-17 20:14:21 INFO  inetBankingV1:17 - password entered
+  2022-10-17 20:14:22 INFO  inetBankingV1:19 - clicked on submit button
+  2022-10-17 20:20:13 INFO  inetBankingV1:11 - url is opened
+  2022-10-17 20:20:13 INFO  inetBankingV1:15 - username entered
+  2022-10-17 20:20:13 INFO  inetBankingV1:17 - password entered
+  2022-10-17 20:20:16 INFO  inetBankingV1:19 - clicked on submit button
+  2022-10-17 20:27:36 INFO  inetBankingV1:11 - url is opened
+  2022-10-17 20:27:37 INFO  inetBankingV1:15 - username entered
+  2022-10-17 20:27:37 INFO  inetBankingV1:17 - password entered
+  2022-10-17 20:27:38 INFO  inetBankingV1:19 - clicked on submit button
+  2022-10-17 20:28:16 INFO  inetBankingV1:11 - url is opened
+  2022-10-17 20:28:16 INFO  inetBankingV1:15 - username entered
+  2022-10-17 20:28:16 INFO  inetBankingV1:17 - password entered
+  2022-10-17 20:28:19 INFO  inetBankingV1:19 - clicked on submit button
+  2022-10-17 20:28:19 INFO  inetBankingV1:24 - login test passed
+  2022-10-17 20:53:53 INFO  inetBankingV1:11 - url is opened
+  2022-10-17 20:53:54 INFO  inetBankingV1:15 - username entered
+  2022-10-17 20:53:54 INFO  inetBankingV1:17 - password entered
+  2022-10-17 20:53:57 INFO  inetBankingV1:19 - clicked on submit button
+  2022-10-17 20:53:57 INFO  inetBankingV1:24 - login test passed
+  2022-10-17 20:58:40 INFO  inetBankingV1:11 - url is opened
+  2022-10-17 20:58:40 INFO  inetBankingV1:15 - username entered
+  2022-10-17 20:58:40 INFO  inetBankingV1:17 - password entered
+  2022-10-17 20:58:42 INFO  inetBankingV1:19 - clicked on submit button
+  2022-10-17 20:58:42 INFO  inetBankingV1:24 - login test passed
+  2022-10-17 21:02:58 INFO  inetBankingV1:11 - url is opened
+  2022-10-17 21:02:58 INFO  inetBankingV1:15 - username entered
+  2022-10-17 21:02:58 INFO  inetBankingV1:17 - password entered
+  2022-10-17 21:03:02 INFO  inetBankingV1:19 - clicked on submit button
+  2022-10-17 21:03:02 INFO  inetBankingV1:24 - login test passed
+  2022-10-18 12:27:51 INFO  inetBankingV1:11 - url is opened
+  2022-10-18 12:27:52 INFO  inetBankingV1:15 - username entered
+  2022-10-18 12:27:52 INFO  inetBankingV1:17 - password entered
+  2022-10-18 12:27:55 INFO  inetBankingV1:19 - clicked on submit button
+  2022-10-18 12:27:55 INFO  inetBankingV1:24 - login test passed
+  2022-10-18 12:28:58 INFO  inetBankingV1:11 - url is opened
+  2022-10-18 12:28:58 INFO  inetBankingV1:15 - username entered
+  2022-10-18 12:28:58 INFO  inetBankingV1:17 - password entered
+  2022-10-18 12:28:59 INFO  inetBankingV1:19 - clicked on submit button
+  2022-10-18 12:34:48 INFO  inetBankingV1:14 - url is opened
+  2022-10-18 12:34:49 INFO  inetBankingV1:18 - username entered
+  2022-10-18 12:34:49 INFO  inetBankingV1:20 - password entered
+  2022-10-18 12:34:49 INFO  inetBankingV1:22 - clicked on submit button
+  2022-10-18 12:35:26 INFO  inetBankingV1:14 - url is opened
+  2022-10-18 12:35:26 INFO  inetBankingV1:18 - username entered
+  2022-10-18 12:35:26 INFO  inetBankingV1:20 - password entered
+  2022-10-18 12:35:27 INFO  inetBankingV1:22 - clicked on submit button
+  2022-10-18 12:41:25 INFO  inetBankingV1:14 - url is opened
+  2022-10-18 12:41:25 INFO  inetBankingV1:18 - username entered
+  2022-10-18 12:41:26 INFO  inetBankingV1:20 - password entered
+  2022-10-18 12:41:26 INFO  inetBankingV1:22 - clicked on submit button
+  2022-10-18 12:47:08 INFO  inetBankingV1:14 - url is opened
+  2022-10-18 12:47:09 INFO  inetBankingV1:18 - username entered
+  2022-10-18 12:47:09 INFO  inetBankingV1:20 - password entered
+  2022-10-18 12:47:11 INFO  inetBankingV1:22 - clicked on submit button
+  2022-10-18 12:47:11 INFO  inetBankingV1:33 - login test failed
+  2022-10-18 16:21:50 INFO  inetBankingV1:20 - username is provided
+  2022-10-18 16:21:50 INFO  inetBankingV1:22 - password is provided
+  2022-10-18 16:22:23 INFO  inetBankingV1:26 - clicked on submit button
+  2022-10-18 16:22:23 INFO  inetBankingV1:35 - login passed
+  2022-10-18 16:22:57 INFO  inetBankingV1:20 - username is provided
+  2022-10-18 16:22:59 INFO  inetBankingV1:22 - password is provided
+  2022-10-18 16:23:30 INFO  inetBankingV1:26 - clicked on submit button
+  2022-10-18 16:23:30 WARN  inetBankingV1:28 - login failed
+  2022-10-18 16:23:34 INFO  inetBankingV1:20 - username is provided
+  2022-10-18 16:23:34 INFO  inetBankingV1:22 - password is provided
+  2022-10-18 16:24:05 INFO  inetBankingV1:26 - clicked on submit button
+  2022-10-18 16:24:05 WARN  inetBankingV1:28 - login failed
+  2022-10-18 16:24:09 INFO  inetBankingV1:20 - username is provided
+  2022-10-18 16:24:09 INFO  inetBankingV1:22 - password is provided
+  2022-10-18 16:24:41 INFO  inetBankingV1:26 - clicked on submit button
+  2022-10-18 16:24:41 WARN  inetBankingV1:28 - login failed
+  2022-10-18 16:24:44 INFO  inetBankingV1:20 - username is provided
+  2022-10-18 16:24:45 INFO  inetBankingV1:22 - password is provided
+  2022-10-18 16:25:20 INFO  inetBankingV1:26 - clicked on submit button
+  2022-10-18 16:25:20 INFO  inetBankingV1:35 - login passed
+  2022-10-19 14:56:35 INFO  inetBankingV1:18 - username entered
+  2022-10-19 14:56:35 INFO  inetBankingV1:20 - password entered
+  2022-10-19 14:56:39 INFO  inetBankingV1:22 - clicked on submit button
+  2022-10-19 14:56:42 INFO  inetBankingV1:29 - providing customer details
+  2022-10-19 14:57:35 INFO  inetBankingV1:18 - username entered
+  2022-10-19 14:57:35 INFO  inetBankingV1:20 - password entered
+  2022-10-19 14:57:39 INFO  inetBankingV1:22 - clicked on submit button
+  2022-10-19 14:57:42 INFO  inetBankingV1:29 - providing customer details
+  2022-10-19 14:58:11 INFO  inetBankingV1:18 - username entered
+  2022-10-19 14:58:11 INFO  inetBankingV1:20 - password entered
+  2022-10-19 14:58:13 INFO  inetBankingV1:22 - clicked on submit button
+  2022-10-19 14:58:16 INFO  inetBankingV1:29 - providing customer details
+  2022-10-19 15:01:00 INFO  inetBankingV1:18 - username entered
+  2022-10-19 15:01:01 INFO  inetBankingV1:20 - password entered
+  2022-10-19 15:01:03 INFO  inetBankingV1:22 - clicked on submit button
+  2022-10-19 15:01:06 INFO  inetBankingV1:29 - providing customer details
+  2022-10-19 15:02:22 INFO  inetBankingV1:18 - username entered
+  2022-10-19 15:02:22 INFO  inetBankingV1:20 - password entered
+  2022-10-19 15:02:24 INFO  inetBankingV1:22 - clicked on submit button
+  2022-10-19 15:02:27 INFO  inetBankingV1:29 - providing customer details
+  2022-10-19 15:04:32 INFO  inetBankingV1:18 - username entered
+  2022-10-19 15:04:32 INFO  inetBankingV1:20 - password entered
+  2022-10-19 15:04:35 INFO  inetBankingV1:22 - clicked on submit button
+  2022-10-19 15:04:38 INFO  inetBankingV1:29 - providing customer details
+  2022-10-19 15:07:36 INFO  inetBankingV1:18 - username entered
+  2022-10-19 15:07:36 INFO  inetBankingV1:20 - password entered
+  2022-10-19 15:07:39 INFO  inetBankingV1:22 - clicked on submit button
+  2022-10-19 15:07:42 INFO  inetBankingV1:29 - providing customer details
+  2022-10-19 15:14:17 INFO  inetBankingV1:18 - username entered
+  2022-10-19 15:14:18 INFO  inetBankingV1:20 - password entered
+  2022-10-19 15:14:23 INFO  inetBankingV1:22 - clicked on submit button
+  2022-10-19 15:14:26 INFO  inetBankingV1:29 - providing customer details
+  2022-10-19 15:19:47 INFO  inetBankingV1:18 - username entered
+  2022-10-19 15:19:47 INFO  inetBankingV1:20 - password entered
+  2022-10-19 15:19:50 INFO  inetBankingV1:22 - clicked on submit button
+  2022-10-19 15:19:53 INFO  inetBankingV1:29 - providing customer details
+  2022-10-19 15:29:16 INFO  inetBankingV1:20 - username entered
+  2022-10-19 15:29:16 INFO  inetBankingV1:22 - password entered
+  2022-10-19 15:29:20 INFO  inetBankingV1:24 - clicked on submit button
+  2022-10-19 15:29:23 INFO  inetBankingV1:31 - providing customer details
+  2022-10-19 15:30:16 INFO  inetBankingV1:20 - username entered
+  2022-10-19 15:30:16 INFO  inetBankingV1:22 - password entered
+  2022-10-19 15:30:21 INFO  inetBankingV1:24 - clicked on submit button
+  2022-10-19 15:30:24 INFO  inetBankingV1:31 - providing customer details
+  2022-10-19 15:35:22 INFO  inetBankingV1:20 - username entered
+  2022-10-19 15:35:22 INFO  inetBankingV1:22 - password entered
+  2022-10-19 15:35:25 INFO  inetBankingV1:24 - clicked on submit button
+  2022-10-19 15:35:28 INFO  inetBankingV1:31 - providing customer details
+  2022-10-19 15:36:39 INFO  inetBankingV1:20 - username entered
+  2022-10-19 15:36:40 INFO  inetBankingV1:22 - password entered
+  2022-10-19 15:36:55 INFO  inetBankingV1:24 - clicked on submit button
+  2022-10-19 15:36:59 INFO  inetBankingV1:31 - providing customer details
+  2022-10-19 15:40:10 INFO  inetBankingV1:20 - username entered
+  2022-10-19 15:40:10 INFO  inetBankingV1:22 - password entered
+  2022-10-19 15:40:15 INFO  inetBankingV1:24 - clicked on submit button
+  2022-10-19 15:40:18 INFO  inetBankingV1:31 - providing customer details
+  2022-10-19 15:43:12 INFO  inetBankingV1:20 - username entered
+  2022-10-19 15:43:13 INFO  inetBankingV1:22 - password entered
+  2022-10-19 15:43:17 INFO  inetBankingV1:24 - clicked on submit button
+  2022-10-19 15:43:20 INFO  inetBankingV1:31 - providing customer details
+  2022-10-23 21:52:44 INFO  inetBankingV1:20 - username entered
+  2022-10-23 21:52:45 INFO  inetBankingV1:22 - password entered
+  2022-10-23 21:52:50 INFO  inetBankingV1:24 - clicked on submit button
+  2022-10-23 21:52:53 INFO  inetBankingV1:31 - providing customer details
+  
